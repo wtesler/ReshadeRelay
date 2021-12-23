@@ -1,6 +1,6 @@
 # Reshade Relay
 
-**WIP WARNING: This is unfinished and currently only
+**WIP: This is unfinished and currently only
 creates the CPU-side texture but does not do anything
 with it!**
 

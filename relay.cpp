@@ -95,6 +95,7 @@ static void on_reshade_finish_effects(reshade::api::effect_runtime *runtime, res
             // const uint8_t a = static_cast<const uint8_t *>(host_data.data)[host_data_index + 3];
 
             // DO SOMETHING WITH THE PIXEL DATA HERE.
+            // COPY PIXEL DATA TO INTERPROCESS SHARED MEMORY.
         }
     }
 
